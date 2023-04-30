@@ -1,2 +1,2 @@
-# Hotel-Booking-System
+# Hotel-Booking-Management
 I MAKE THIS PROJECT USING JAVA AND FFRAMS.
